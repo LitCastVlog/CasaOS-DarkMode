@@ -27,3 +27,16 @@
     background: #242424 !important; 
     color: #fff !important; 
 }
+
+
+/* Optional: Hide FlexBar links/resize logo *//*
+.is-flex.contact-bar, .ml-4.intro-text
+{
+    visibility:hidden
+}
+
+.mb-3._is-136x26.image {
+    width: 40%
+}
+
+*/
