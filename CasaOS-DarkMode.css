@@ -8,6 +8,7 @@
   /* Exclude elements */
 ._fixed-height.is-align-items-center.is-flex.top-bar.navbar,
 .out-container,
+.image.is-128x128.b-image-wrapper,
 .modal-background,
 .is-dark-bg.is-flex-direction-column.is-flex,
 .main-content.is-three-quarters.column,
@@ -40,6 +41,9 @@
     background: #000 !important; 
     color: #fff !important; 
     filter: invert(1) hue-rotate(180deg) !important;
+}
+.is-shadow.step4.login-panel {
+    background: black !important
 }
 
 /* Secondary Elements */
