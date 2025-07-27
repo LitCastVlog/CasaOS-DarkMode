@@ -23,6 +23,7 @@
 .dropdown-content > .dropdown-item,
 .is-mobile-modal.is-active.navbar-item.dropdown-menu-animation.dropdown > .dropdown-menu,
 .is-flex.operation-toolbar,
+    .is-active.is-bottom-left.netowrk-dropdown.dropdown-menu-animation.dropdown,
 #logs-content,
 #terminal-content > .fdark-bg.mt-4.pb-2.pt-2.pl-2.fullScreen,
   img:not(.stop.image.is-64x64.b-image-wrapper img),
@@ -33,7 +34,7 @@
 }
 
 /* Change Background/Elements Color */
-.is-flex.top-bar.navbar,.is-mobile-modal.is-active.navbar-item.dropdown-menu-animation.dropdown > .dropdown-menu > .dropdown-content,.dropdown-content,.dropdown-item.has-text-left.has-text-white
+.is-flex.top-bar.navbar,.is-mobile-modal.is-active.navbar-item.dropdown-menu-animation.dropdown > .dropdown-menu > .dropdown-content,.dropdown-content,.dropdown-item.has-text-left.has-text-white,.is-active.is-bottom-left.netowrk-dropdown.dropdown-menu-animation.dropdown > .dropdown-menu > .dropdown-content
 {
     color-scheme: dark;
     background: #000 !important; 
@@ -49,8 +50,8 @@
 }
  
 /* Fix Text */
- .is-text.button {
-    color: #929292 !important;
+ .is-text.button,.is-active.is-bottom-left.netowrk-dropdown.dropdown-menu-animation.dropdown > .dropdown-menu > .dropdown-content > a.dropdown-item {
+    color: #a8a8a8 !important;
     filter: invert(1) hue-rotate(180deg) !important;
 }
 
