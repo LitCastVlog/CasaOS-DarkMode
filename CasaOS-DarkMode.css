@@ -25,7 +25,7 @@
 .is-flex.operation-toolbar,
 #logs-content,
 #terminal-content > .fdark-bg.mt-4.pb-2.pt-2.pl-2.fullScreen,
-  img,
+  img:not(.stop.image.is-64x64.b-image-wrapper img),
   video,
   [class*="no-invert"] {
     filter: invert(1) hue-rotate(180deg) !important;
