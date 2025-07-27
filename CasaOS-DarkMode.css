@@ -7,7 +7,7 @@
   
   /* Exclude elements */
 ._fixed-height.is-align-items-center.is-flex.top-bar.navbar,
-.out-container,
+.out-container, .preview-image,
 .image.is-128x128.b-image-wrapper,
 .modal-background,
 .is-dark-bg.is-flex-direction-column.is-flex,
