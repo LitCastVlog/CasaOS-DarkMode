@@ -24,9 +24,9 @@
 .is-mobile-modal.is-active.navbar-item.dropdown-menu-animation.dropdown > .dropdown-menu,
 .is-flex.operation-toolbar,
     .is-active.is-bottom-left.netowrk-dropdown.dropdown-menu-animation.dropdown,
-#logs-content,
+#logs-content,.art-bottom,
 #terminal-content > .fdark-bg.mt-4.pb-2.pt-2.pl-2.fullScreen,
-  img:not(.stop.image.is-64x64.b-image-wrapper img),
+  img:not(.stop.image img),
   video,
   [class*="no-invert"] {
     filter: invert(1) hue-rotate(180deg) !important;
