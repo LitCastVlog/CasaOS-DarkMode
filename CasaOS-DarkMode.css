@@ -5,7 +5,7 @@
     filter: invert(1) hue-rotate(180deg);
   }
   
-  /* Exclude elements */
+/* Exclude elements */
 ._fixed-height.is-align-items-center.is-flex.top-bar.navbar,
 .out-container,
 .modal-background,
@@ -22,6 +22,7 @@
 .is-relative,.dropdown-menu > 
 .dropdown-content > .dropdown-item,
 .is-mobile-modal.is-active.navbar-item.dropdown-menu-animation.dropdown > .dropdown-menu,
+.is-flex.operation-toolbar,
 #logs-content,
 #terminal-content > .fdark-bg.mt-4.pb-2.pt-2.pl-2.fullScreen,
   img,
@@ -41,7 +42,7 @@
 }
 
 /* Secondary Elements */
- .is-rounded.is-primary.is-small.mr-2.button {
+ .is-rounded.is-primary.is-small.mr-2.button,.dropdown-menu-animation.dropdown.app-card-drop.is-active > .dropdown-menu > .dropdown-content > .dropdown-item>.button.is-fullwidth.is-text.button:hover {
     background: #242424 !important; 
     color: #b7b7b7 !important;
     filter: invert(1) hue-rotate(180deg) !important;
