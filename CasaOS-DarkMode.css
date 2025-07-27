@@ -55,14 +55,9 @@
 }
 
 
-/* Optional: Hide FlexBar links/resize logo *//*
-.is-flex.contact-bar, .ml-4.intro-text
+/* Optional: Hide Logo/FlexBar links *//*
+.is-flex.contact-bar, .ml-4.intro-text, .mb-3._is-136x26.image
 {
     visibility:hidden
 }
-
-.mb-3._is-136x26.image {
-    width: 40%
-}
-
 */
