@@ -1,7 +1,7 @@
 # CasaOS-DarkMode
 Custom CSS theme for CasaOS, Work in Progress
 
-paste contents of `CasaOS-DarkMode.css` inside `/var/lib/casaos/www/css/custom.css`
+paste contents of [CasaOS-DarkMode.css](https://github.com/LitCastVlog/CasaOS-DarkMode/blob/main/CasaOS-DarkMode.css) inside `/var/lib/casaos/www/css/custom.css`
 
 or use Stylus, Tampermonkey, or another UserStyle/UserScript/CSS manager
 
