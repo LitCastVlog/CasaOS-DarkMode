@@ -15,7 +15,7 @@
 .contextmenu-canvas.side-bar,
 .button.is-text.is-fullwidth, .is-text.button,
 ._has-text-white,
-.header-icon, 
+.header-icon, .is-flex-shrink-0.is-24x24.image, .image.is-80x80.b-image-wrapper,
 .ml-3.mb-3.mr-3.mt-3.is-flex > 
 .header-icon > .image.is-64x64.b-image-wrapper,
 .is-flex.has-text-centered > 
