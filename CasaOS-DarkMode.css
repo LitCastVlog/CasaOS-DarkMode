@@ -35,7 +35,7 @@
 }
 
 /* Change Background/Elements Color */
-.is-flex.top-bar.navbar,.is-mobile-modal.is-active.navbar-item.dropdown-menu-animation.dropdown > .dropdown-menu > .dropdown-content,.dropdown-content,.dropdown-item.has-text-left.has-text-white,.is-active.is-bottom-left.netowrk-dropdown.dropdown-menu-animation.dropdown > .dropdown-menu > .dropdown-content
+.is-mobile-modal.is-active.navbar-item.dropdown-menu-animation.dropdown > .dropdown-menu > .dropdown-content,.dropdown-content,.dropdown-item.has-text-left.has-text-white,.is-active.is-bottom-left.netowrk-dropdown.dropdown-menu-animation.dropdown > .dropdown-menu > .dropdown-content
 {
     color-scheme: dark;
     background: #000 !important; 
@@ -44,6 +44,10 @@
 }
 .is-shadow.step4.login-panel {
     background: black !important
+}
+.is-flex.top-bar.navbar,.is-medium.input,.blur-background
+{
+    background: #1c1c1c7a !important; 
 }
 
 /* Secondary Elements */
