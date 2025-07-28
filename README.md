@@ -1,7 +1,9 @@
 # CasaOS-DarkMode
 Custom CSS theme for CasaOS, Work in Progress
 
-use Stylus, Tampermonkey, or another UserStyle/UserScript/CSS manager
+paste contents of `CasaOS-DarkMode.css` inside `/var/lib/casaos/www/css/custom.css`
+
+or use Stylus, Tampermonkey, or another UserStyle/UserScript/CSS manager
 
 <img src="./images/dropdown.jpg" width="100%"/>
 <img src="./images/Files.jpg" width="100%"/>
