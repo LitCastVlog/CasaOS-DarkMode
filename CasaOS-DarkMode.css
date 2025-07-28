@@ -51,7 +51,7 @@
 }
 
 /* Secondary Elements */
- .is-rounded.is-primary.is-small.mr-2.button,.dropdown-menu-animation.dropdown.app-card-drop.is-active > .dropdown-menu > .dropdown-content > .dropdown-item>.button.is-fullwidth.is-text.button:hover {
+ .is-rounded.is-primary.is-small.mr-2.button,.dropdown-menu-animation.dropdown.app-card-drop.is-active > .dropdown-menu > .dropdown-content > .dropdown-item>.button.is-fullwidth.is-text.button:hover,.CodeMirror {
     background: #242424 !important; 
     color: #b7b7b7 !important;
     filter: invert(1) hue-rotate(180deg) !important;
